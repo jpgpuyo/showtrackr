@@ -28,3 +28,6 @@ node_modules
 
 # Mongo db
 data/
+
+#Cloud9 metadata
+.c9/
